@@ -1,0 +1,369 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.list-inline-item{
+    padding-left: 10px;
+    padding-top: 20px;
+}
+.sec-1{
+    background-color: rgba(244,242,255,255) !important;
+}
+.logo{
+    padding-top: 20px;
+    transform: translateX(-20px);
+}
+.header-1{
+    padding-left: 100px;
+}
+.quote{
+    font-weight: 500;
+    color: coral;
+    transform: translateX(-10px);
+}
+.menu-bar{
+    background-color: rgba(244,242,255,255) !important ;
+    /* float: left !important; */
+}
+.img-sec1{
+    padding-top: 80px;
+}
+.text{
+    padding-top: 80px;
+    padding-left: 100px;
+}
+.text-cre{
+    color: coral;
+    font-weight: 500;
+}
+.text-pro{
+    font-size: 42px; 
+    color:rgb(34, 34, 114);
+    font-weight: 500;
+}
+.text-bs{
+    font-size: 42px;
+    color: coral;
+    font-weight: 500;
+}
+.text-path{
+    font-size: 13px;
+    padding-top: 15px;
+}
+.card-img-simile{
+    padding-top: 30px;
+    padding-left: 70px;
+
+}
+.card{
+    float: left;
+}
+/* .card-10{
+    margin: 0 auto;
+    width: 30%;
+} */
+
+.card-text{
+    font-size: 15px;
+    font-weight: 500;
+    text-align: center;
+}
+.num{
+    color: coral;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+}
+.card-top{
+    margin-top: 80px !important;
+}
+.sec-2{
+    /* height: 300px; */
+    width: 0 auto;
+    background-color: coral;
+}
+.card-1{
+    /* height: 100px; */
+    /* width: 80%; */
+    margin: 0 auto;
+    /* background-color: chartreuse; */
+}
+.content{
+    width: 87%;
+    margin: 0 auto;
+    padding-left: 40px;
+    justify-content:center;
+    /* height: 200px; */
+    /* background-color: aquamarine; */
+    padding:50px 0px;
+    /* padding-left: 70px; */
+}
+.text-sec2{
+   width: 75%; 
+   padding-left: 80px;
+   margin: 0 auto;
+   padding-top: 10px;
+   color: rgb(54, 54, 101);
+}
+.card-sec2{
+    /* padding-left: 50px; */
+    margin: 0 auto;
+}
+.sec-3{
+     background-color: rgba(244,242,255,255) !important ;
+}
+.card-nt{
+    width: 199px;
+    background-color: white;
+}
+.card-font{
+    color: rgb(54, 54, 101);
+    font-size: 18px;
+    padding-left: 30px;
+}
+.card-text-1{
+    font-size: 12px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.section-3{
+    width:auto;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.card-group{
+    padding-top: 20px;
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 80px;
+    /* padding-left: 90px; */
+}
+.card-nt:hover{
+    /* drop-shadow: 1px 1px 5px; */
+    box-shadow: 1px 1px 20px gray;
+    /* filter: drop-shadow(1px 1px 5px); */
+}
+.btn-color{
+    background-color:rgba(254,238,234,255);
+    border-radius: 5px;
+    width: 100px;
+    color: rgba(246,132,89,255);
+    font-size: 15px;
+    border: 1px solid black;
+    
+}
+.btn-color:hover{
+    background-color: rgba(254,238,234,255);
+}
+.btn-ser{
+    width: 20%;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+.button-4{
+    background-color:rgba(254,238,234,255) !important;
+    color:  rgba(246,132,89,255) !important;
+    width: 120px;
+    height: 40px;
+    font-style: bold;
+    font-weight: 500;
+}
+.font-4{
+    font-size: 24px;
+    color: rgba(40,36,109,255);
+    font-weight: 500;
+    font-display:inherit;
+    font-style: bold;
+}
+.img-4{
+    padding-left: 100px;
+}
+.font-5{
+    font-size: 13px;
+}
+.font-6{
+    font-size: 20px;
+}
+.sign-img{
+    width: 150px;
+}
+.text-sec4{
+    width: 70%;
+    margin: 0 auto;
+}
+.sec-4-con{
+
+    color: coral;
+    font-weight: 500;
+}
+.section-4{
+    background-color: rgba(244,242,255,255);
+}
+.sec-5{
+    background-color: rgba(244,242,255,255);
+}
+.img-sec5{
+    width: 80px;
+    height: 60px;
+}
+.card-font-sec5{
+    font-weight: 500;
+    color: rgb(54, 54, 101);
+    font-size: 16px;
+}
+.sec5-img{
+    float: left;
+}
+.sec5-font{
+    padding-top: 10px;
+    float: left;
+}
+.sec-5-3{
+    padding-left: 100px;
+    
+}
+
+.button-5{
+    background-color:rgba(254,238,234,255) !important;
+    color:  rgba(246,132,89,255) !important;
+    width: 100px;
+    height: 40px;
+    font-style: bold;
+    font-weight: 500;
+}
+.sec-6{
+    background-color:rgba(244,242,255,255) ;
+}
+.sec-6-font{
+    margin: 0 auto;
+    width: 25%;
+    /* background-color: aqua; */
+}
+.sec6{
+    width: 80%;
+    margin: 0 auto;
+}
+.sec-6-img{
+    width: 150px;
+    /* margin-left: 50px; */
+    
+}
+.sec-6-card{
+    margin-top: -50px;
+    margin-left: 30px;
+}
+.sec-7-pt{
+    width: 70%;
+    margin: 0 auto;
+}
+.form-control{ 
+    width: 100px !important;
+}
+.sec-7{
+    background-color: rgba(244,242,255,255);
+}
+.box-left{
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+    box-shadow: 1px 1px 5px gray;
+}
+.box-right{
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+    box-shadow: 1px 1px 5px gray;
+}
+.img-7,.sec-8-1{
+    width: 80%;
+    margin: 0 auto;
+}
+.sec-8-1{
+    width: 85%;
+    margin: 0 auto;
+}
+.form-control{
+    width: 100% !important;
+}
+.sec-8{
+    background-color: #f9835e;
+}
+.sec-8-text{
+    font-size: 19px;
+    color: white;
+    float: left;
+}
+.sec-foot{
+    font-size: 17px;
+    color: white;
+    font-weight: 500;
+}
+.sec-8-foot-text{
+    color: white;
+    font-size: 13px;
+}
+.sec-9{
+    background-color: #f36135;
+}
+.sec-9-text{
+    width: 40%;
+    margin: 0 auto;
+}
+.text-9{
+    color: white;
+}
+
+@media screen and (max-width:479px) {
+    .card-media{
+        margin-top: 50px;
+    }
+    .drop-but{
+        display: none;
+    }
+    .text-sec2{
+        display: none;
+    }
+    .sec-4-con{
+        margin-left: 10px;
+    }
+    .sec-5-font{
+        width: 80%;
+    }
+    .sec-9-text{
+        display: none;
+    }
+}
+@media screen and (min-width:668px) and (max-width:1000px) {
+    .sec-4-con{
+        margin-left: 10px;
+    }
+}
+@media screen and (max-width:910px) {
+    .sec-6-font{
+        width: auto;
+    }
+}
+@media screen and (min-width:766px) and (max-width:1000px) {
+    .img-sec2-side{
+        height: 400px !important;
+       
+    }
+}
+@media screen and (min-width:771px) and (max-width:1300px) {
+    .img-4{
+        height: 450px !important;
+    }
+}
+@media screen and (min-width:1200px) {
+    .content{
+        padding-left: 50px;
+    }
+}
+@media screen and (min-width:1440px) {
+    .content{
+        padding-left: 150px;
+    }
+}
+@media screen and (min-width:2550px) {
+    .content{
+        padding-left: 650px;
+    }
+}
